@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nafisa Maryam
 - 👀 I’m interested in Embedded Systems and OOP. 
-- 🌱 I’m currently learning to build Apps using Flutter.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning to build Apps using Flutter and ML.
+- 💞️ I’m looking to collaborate on any OOP based projects.
 - 📫 How to reach me nafisama@udel.edu
 
 <!---
